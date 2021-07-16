@@ -1,4 +1,4 @@
-# Calendars for remembering things around Lewisham 
+# Gordonbrock School Calendars
 
 If you are here you are probably looking for the [Gordonbrock School Holiday Calendar](school-holidays.ics) I've put together for 2021-22.  
 
